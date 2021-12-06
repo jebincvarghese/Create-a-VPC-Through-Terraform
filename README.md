@@ -54,7 +54,7 @@ variable "vpc_cidr" {
 ```
 Lets start creating main.tf file with the details below.
 
-##  3.Creating the main .tf file
+##  3.Creating the vpc.tf file
 
 >Fetching Availability Zones Names
 
