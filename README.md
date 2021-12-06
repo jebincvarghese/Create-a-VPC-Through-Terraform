@@ -27,7 +27,7 @@ Here is a simple document on how to use Terraform to build an AWS VPC along with
 - secret_key - secret key for the IAM user
 
 # Terraform Installation and VPC creation code and explanation :
-### 1.Creating the provider .tf file
+### 1.Creating the provider.tf file
 This files contains the provider configuration.
 ```
 provider "aws" {
